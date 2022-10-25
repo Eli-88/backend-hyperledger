@@ -1,0 +1,5 @@
+{
+    "pemFilePath":"<your path>/fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/ca/ca.org1.example.com-cert.pem",
+    "userId":"appuser",
+    "connConfigPath":"<your path>/fabric-samples/test-network/organizations/peerOrganizations/org1.example.com/connection-org1.yaml"
+}
